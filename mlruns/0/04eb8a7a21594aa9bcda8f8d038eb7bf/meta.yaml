@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Git%20projects/MLOps/MLOps_with_mlflow/mlruns/0/04eb8a7a21594aa9bcda8f8d038eb7bf/artifacts
+end_time: 1713337956315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04eb8a7a21594aa9bcda8f8d038eb7bf
+run_name: omniscient-toad-570
+run_uuid: 04eb8a7a21594aa9bcda8f8d038eb7bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713337952726
+status: 4
+tags: []
+user_id: USER

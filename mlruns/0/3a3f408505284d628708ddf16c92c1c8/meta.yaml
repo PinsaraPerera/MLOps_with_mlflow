@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Git%20projects/MLOps/MLOps_with_mlflow/mlruns/0/3a3f408505284d628708ddf16c92c1c8/artifacts
+end_time: 1713337950036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a3f408505284d628708ddf16c92c1c8
+run_name: smiling-roo-609
+run_uuid: 3a3f408505284d628708ddf16c92c1c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713337946085
+status: 4
+tags: []
+user_id: USER

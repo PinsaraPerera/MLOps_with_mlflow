@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Git%20projects/MLOps/MLOps_with_mlflow/mlruns/0/72417f75e9224c0db1e7e54591e30542/artifacts
+end_time: 1713338213983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72417f75e9224c0db1e7e54591e30542
+run_name: resilient-quail-497
+run_uuid: 72417f75e9224c0db1e7e54591e30542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713338210504
+status: 4
+tags: []
+user_id: USER
